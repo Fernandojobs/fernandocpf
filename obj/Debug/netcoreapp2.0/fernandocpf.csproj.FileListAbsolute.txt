@@ -1,0 +1,10 @@
+C:\Users\user_acronus\fernandocpf\obj\Debug\netcoreapp2.0\fernandocpf.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\fernandocpf\obj\Debug\netcoreapp2.0\fernandocpf.AssemblyInfoInputs.cache
+C:\Users\user_acronus\fernandocpf\obj\Debug\netcoreapp2.0\fernandocpf.AssemblyInfo.cs
+C:\Users\user_acronus\fernandocpf\bin\Debug\netcoreapp2.0\fernandocpf.deps.json
+C:\Users\user_acronus\fernandocpf\bin\Debug\netcoreapp2.0\fernandocpf.runtimeconfig.json
+C:\Users\user_acronus\fernandocpf\bin\Debug\netcoreapp2.0\fernandocpf.runtimeconfig.dev.json
+C:\Users\user_acronus\fernandocpf\bin\Debug\netcoreapp2.0\fernandocpf.dll
+C:\Users\user_acronus\fernandocpf\bin\Debug\netcoreapp2.0\fernandocpf.pdb
+C:\Users\user_acronus\fernandocpf\obj\Debug\netcoreapp2.0\fernandocpf.dll
+C:\Users\user_acronus\fernandocpf\obj\Debug\netcoreapp2.0\fernandocpf.pdb
